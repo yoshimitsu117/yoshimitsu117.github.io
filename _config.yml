@@ -15,7 +15,7 @@ github_username:  yoshimitsu117
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: yoshimitsu_
-linkedin_username: 
+linkedin_username: siddharth-majhi-5b8698129
 # pinterest_username: jekyll
 # googleplus_username: +jekyll
 
@@ -24,8 +24,7 @@ linkedin_username:
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   My name is Siddharth Majhi and I am currently a 4th year student pursuing Bachelor of Technology in Information Technology from National Institute Of Science And Technology,Berhampur.A competitive programmer who loves solving problems,reading machine learning blogs,sketching and travelling .Apart from all these,another thing that interests me is Web developement.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  
 
 # Projects Section
 # projects_title: Projects
@@ -39,11 +38,11 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
+  Alongside my interests in things mentioned above:
+   - Dancing
    - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - Singing
+   - Spreading the knowledge 
 
 # Footer
 footer_show_references: true
